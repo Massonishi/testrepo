@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 16 12:01:48 2017
 
-@author: MassOnishi
-"""
+
 import numpy as np
 import pprint
 from matplotlib import pyplot as plt
